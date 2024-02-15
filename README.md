@@ -73,8 +73,7 @@ Menu:
         0) Quit
 Choice: 5
 
-Invalid selection, enter a valid option
-
+Invalid Input. Please enter a valid input.
 Menu:
 
         1) Enter point (x, y) coordinate
