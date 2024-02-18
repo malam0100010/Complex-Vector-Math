@@ -3,6 +3,7 @@
  This program allows a user to specify a given cartesian point and move it a certain angle or via a vector. This program is intended to demonstrate skills with pointers, header files, make files, and general I/O. 
 
  Sample execution: 
+ 
  Menu:
  
         1) Enter point (x, y) coordinate
