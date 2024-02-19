@@ -75,6 +75,7 @@ Menu:
 Choice: 5
 
 Invalid Input. Please enter a valid input.
+
 Menu:
 
         1) Enter point (x, y) coordinate
